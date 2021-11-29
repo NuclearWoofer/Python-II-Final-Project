@@ -1,0 +1,15 @@
+Emilia Clarke,10/23/1986,Daenerys Targaryen
+Kit Harington,12/26/1986,Jon Snow
+Sophie Turner,02/21/1996,Sansa Stark
+Maisie Williams,04/15/1997,Arya Stark
+Peter Dinklage,06/11/1969,Tyrion Lannister
+Lena Headey,10/03/1973,Cersei Lannister
+Nikolaj Coster-Waldau,07/27/1970,Jaime Lannister
+Gwendoline Christie,10/28/1978,Brienne of Tarth
+Alfie Allen,09/12/1986,Theon Greyjoy
+John Bradley,09/15/1988,Samwell Tarly
+Jason Mamoa,08/01/1979,Khal Drogo
+Rory McCann,04/24/1969,Sandor Clegane
+Conleth Hill,11/24/1964,Lord Varys
+Iain Glen,06/24/1961,Jorah Mormont
+Issac Hempstead Wright,04/09/1999,Bran Stark
